@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daniel Mahadi",
+      "authorEmail": "daniel@danielmahadi.com",
+      "authorUrl": ""
+    }
+  }
+}
